@@ -1,4 +1,2 @@
 #!/bin/bash
-
-username=$USER
-echo $username
+id  -un
